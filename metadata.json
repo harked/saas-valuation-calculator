@@ -1,0 +1,5 @@
+{
+  "name": "SaaS Valuation Calculator",
+  "description": "An interactive calculator to estimate your SaaS company's valuation based on Annual Recurring Revenue (ARR) and growth rate, designed with a modern and intuitive user interface.",
+  "requestFramePermissions": []
+}
